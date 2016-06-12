@@ -1,0 +1,58 @@
+  <!DOCTYPE html>
+<html>
+	<head>
+	
+		<title>Ejercicio en de html</title>
+		<meta charset="utf-8">
+		<meta name="description" content="Este es un ejemplo de descripcion">
+		<link rel="stylesheet" href="PruebaEstilos1.css">
+	</head>
+	
+	<body>
+		<header>
+			<h1>Ejercicio de HTML</h1>
+			<h2>Prueba de Estructura</h2>
+		</header>
+		
+		<nav>
+			<ul>
+				<li><a href=prueba1.html>Inicio</a></li>
+				<li><a href=Calendario.html>Calendario</a></li>
+				<li><a href=Noticias.html>Noticias</a></li>
+				<li><a href=Bolsa.html>Bolsa de empleo</a></li>
+			</ul>
+			
+		</nav>
+		<section>
+		    Secci&oacute;n
+			<article>
+			Art&iacute;culo
+				<figure>
+					<img src="homero.png" alt="Dibujo de homero">
+					<figcaption>Este es el homero <mark>muy feliz</mark></figcaption>
+				</figure>
+			</article>
+				Pedro dijo que : <cite> "Hay 3 tipos de personas: los que saben contar y los que no"</cite>
+			<article>
+				<article>
+				
+				<p style= "font-size:20px">El DERMATÓLOGO es el único médico que puede dar diagnósticos SUPERFICIALES.</p> 
+				<style>
+				p{color:blue} 
+				</style>
+				<p id="a">El que ríe el último porque piensa más despacio.</p>
+				<p id="b" class="nuevo">Las ventajas del NUDISMO saltan a la vista</p>
+				
+				</article>
+			</article>
+		</section>
+		<aside>
+		Info Adicional
+		</aside>
+		
+		<footer> <small>Copy Rigth Esteban Perez</small></footer>
+	
+	</body>
+	
+	
+</html>
