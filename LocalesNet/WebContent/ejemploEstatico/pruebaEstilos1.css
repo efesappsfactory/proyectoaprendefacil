@@ -1,0 +1,12 @@
+p{
+	background-color:yellow;
+	font-size:10px;
+}
+
+p#a{
+	background-color:white;
+}
+
+p.nuevo{
+	background-color:cyan;
+}
