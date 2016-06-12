@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <syncparticipants>
-<participant displayName="Git (WebApps2016A1B)" id="org.eclipse.egit.ui.modelCompareParticipant" secondary_id="1465770135296">
+<participant displayName="Git (WebApps2016A1B/WebContent/admLocal)" id="org.eclipse.egit.ui.modelCompareParticipant" secondary_id="1465770607606">
 <data forceFetch="false" root="false">
-<org.eclipse.team.ui.MODEL_PARTICIPANT_SETTINGS org.eclipse.team.ui.MODEL_PARTICIPANT_DESCRIPTION="WebApps2016A1B" startupAction="none">
+<org.eclipse.team.ui.MODEL_PARTICIPANT_SETTINGS org.eclipse.team.ui.MODEL_PARTICIPANT_DESCRIPTION="WebApps2016A1B/WebContent/admLocal" startupAction="none">
 <org.eclipse.team.ui.MODEL_PARTICIPANT_REFRESH_SCHEDULE org.eclipse.team.ui.CTX_REFRESHSCHEDULE_ENABLED="false" org.eclipse.team.ui.CTX_REFRESHSCHEDULE_INTERVAL="3600" org.eclipse.team.ui.CTX_REFRESHSCHEDULE_RUNONCE="false"/>
 <org.eclipse.team.ui.MODEL_PARTICIPANT_MAPPINGS modelProviderId="org.eclipse.core.resources.modelProvider">
 <mappings>
-<resources resourcePath="/WebApps2016A1B" resourceType="4"/>
+<resources resourcePath="/WebApps2016A1B/WebContent/admLocal" resourceType="2"/>
 </mappings>
 </org.eclipse.team.ui.MODEL_PARTICIPANT_MAPPINGS>
 </org.eclipse.team.ui.MODEL_PARTICIPANT_SETTINGS>
-<gitSynchronizeData container="C:/Users/OMAR S/Documents/worspace/WebApps2016A1B" dstRev="refs/remotes/origin/master" inludeLocal="true" srcRev="HEAD"/>
+<gitSynchronizeData container="C:/Users/OMAR S/Documents/worspace/WebApps2016A1B" dstRev="refs/remotes/origin/master" inludeLocal="true" srcRev="HEAD">
+<includedPaths>
+<path path="C:/Users/OMAR S/Documents/worspace/WebApps2016A1B/WebContent/admLocal"/>
+</includedPaths>
+</gitSynchronizeData>
 </data>
 </participant>
 </syncparticipants>
