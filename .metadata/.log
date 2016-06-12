@@ -68,3 +68,6 @@ org.eclipse.jgit.errors.TransportException: https://github.com/efesappsfactoy/pr
 	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:197)
 	at org.eclipse.egit.ui.internal.push.ConfirmationPage$2.run(ConfirmationPage.java:209)
 	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+
+!ENTRY org.eclipse.equinox.security 1 0 2016-06-12 17:27:17.582
+!MESSAGE New keyring password generated. 
