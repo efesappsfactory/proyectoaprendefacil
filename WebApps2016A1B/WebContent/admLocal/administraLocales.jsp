@@ -42,8 +42,7 @@
      </table>
    
    </section>
-   <footer>
-      <%@include file="../commons/footer.jsp" %>
-   </footer>
+   
+   <%@include file="../commons/footer.jsp" %>
 </body>
 </html>
