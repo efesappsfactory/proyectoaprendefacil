@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 eclipse.preferences.version=1
 org.jboss.ide.eclipse.as.ui.defaultWebServer=WildFly  8.x1465760127797
 org.jboss.ide.eclipse.as.ui.preferences.disabled.automatic.server.view=true
@@ -5,3 +6,12 @@ org.jboss.ide.eclipse.as.ui.preferences.enabledDecorators.1=true
 org.jboss.ide.eclipse.as.ui.preferences.runtime.last.type.org.jboss.ide.eclipse.as.runtime.wildfly.80=C\:\\Users\\OMAR S\\wildfly-8.2.1.Final
 org.jboss.ide.eclipse.as.ui.wizards.LAST_RUNTIME_CREATED=WildFly 8.x Runtime
 org.jboss.ide.eclipse.as.ui.wizards.LAST_SERVER_CREATED=WildFly  8.x1465760127797
+=======
+eclipse.preferences.version=1
+org.jboss.ide.eclipse.as.ui.defaultWebServer=WildFly  8.x1465774263753
+org.jboss.ide.eclipse.as.ui.preferences.disabled.automatic.server.view=true
+org.jboss.ide.eclipse.as.ui.preferences.enabledDecorators.1=true
+org.jboss.ide.eclipse.as.ui.preferences.runtime.last.type.org.jboss.ide.eclipse.as.runtime.wildfly.80=C\:\\wildfly-8.2.1.Final
+org.jboss.ide.eclipse.as.ui.wizards.LAST_RUNTIME_CREATED=WildFly 8.x Runtime 1
+org.jboss.ide.eclipse.as.ui.wizards.LAST_SERVER_CREATED=WildFly  8.x1465778641277
+>>>>>>> 07025f4d87b91e92f0453963c0fbb564247b6234

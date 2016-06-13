@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<item value="" key="defaultDestinationPath"/>
@@ -6,3 +7,10 @@
 	<section name="downloadRuntimeSection">
 	</section>
 </section>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="downloadRuntimeSection">
+	</section>
+</section>
+>>>>>>> 07025f4d87b91e92f0453963c0fbb564247b6234

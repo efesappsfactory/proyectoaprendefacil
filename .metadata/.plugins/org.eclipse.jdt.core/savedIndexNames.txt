@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 INDEX VERSION 1.127+C:\Users\OMAR S\Documents\worspace\.metadata\.plugins\org.eclipse.jdt.core
 1776548393.index
 1142628358.index
@@ -47,3 +48,7 @@ INDEX VERSION 1.127+C:\Users\OMAR S\Documents\worspace\.metadata\.plugins\org.ec
 740151824.index
 799908641.index
 273596369.index
+=======
+INDEX VERSION 1.127+C:\Users\Magdalena\Documents\Efren\Estudiante\EPN\FIS\Semestres\2016A\AppWeb\Proyecto\Workspace\.metadata\.plugins\org.eclipse.jdt.core
+3882870723.index
+>>>>>>> 07025f4d87b91e92f0453963c0fbb564247b6234

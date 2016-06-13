@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 activeuserprofiles=Omar;Team
 eclipse.preferences.version=1
 org.eclipse.rse.systemtype.local.systemType.defaultUserId=OMAR S
 useridperkey=Omar.Local\=OMAR S;
+=======
+activeuserprofiles=DESKTOP-FO7IP4H;Team
+eclipse.preferences.version=1
+org.eclipse.rse.systemtype.local.systemType.defaultUserId=Esteban
+useridperkey=DESKTOP-FO7IP4H.Local\=Esteban;
+>>>>>>> 07025f4d87b91e92f0453963c0fbb564247b6234

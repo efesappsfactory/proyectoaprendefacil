@@ -2,7 +2,11 @@
   "version": "v1",
   "title": "JBoss Tools Error Reporting Server",
   "description": "Automated Error Reporting for JBoss Tools",
+<<<<<<< HEAD
   "timestamp": 1465760092797,
+=======
+  "timestamp": 1465757106481,
+>>>>>>> 07025f4d87b91e92f0453963c0fbb564247b6234
   "ttl": 20160,
   "helpUrl": "https://wiki.eclipse.org/EPP/Logging",
   "feedbackUrl": "https://docs.google.com/a/codetrails.com/forms/d/1wd9AzydLv_TMa7ZBXHO7zQIhZjZCJRNMed-6J4fVNsc/viewform",
@@ -64,5 +68,9 @@
   "acceptOtherPackages": true,
   "acceptUiFreezes": false,
   "ignoredStatuses": [],
+<<<<<<< HEAD
   "problemsZipLastDownloadTimestamp": 1465760490754
+=======
+  "problemsZipLastDownloadTimestamp": 1465757503955
+>>>>>>> 07025f4d87b91e92f0453963c0fbb564247b6234
 }
